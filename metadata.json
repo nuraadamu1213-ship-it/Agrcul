@@ -1,0 +1,7 @@
+{
+  "name": "AgroSmart AI",
+  "description": "A comprehensive agricultural management platform featuring AI-powered crop diagnostics, smart agronomy advice, and real-time market analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
